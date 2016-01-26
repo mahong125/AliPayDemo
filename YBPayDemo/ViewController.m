@@ -39,9 +39,9 @@
     /*============================================================================*/
     /*=======================需要填写商户app申请的===================================*/
     /*============================================================================*/
-    NSString *partner = @"2088701787546364"; /** 合作商户ID  PID */
-    NSString *seller = @"zfb@runbey.net"; /** 支付宝账号ID  */
-    NSString *privateKey = @"MIICeAIBADANBgkqhkiG9w0BAQEFAASCAmIwggJeAgEAAoGBANEBTFL65mvm4ep92NTaAj4pXK5d/PGYsGmOlFCFlZGRmk8eggv4nixn91WLwGH4bX1yuNa0/WptFvswlByMAJRYHZ/avUAj2dyl877+X+XRhUmPJPBsmI/pehKKcpUBwYttoexCE7a5yOb05G05PFjp1p9jXf5cIndgRmygg9EzAgMBAAECgYEAw2WpS3LR9VLXJvkcvHJM4nyc709jaSNM2oK32kfpOzyavRlSj4qRpgZUz59l7rHo+v1EHUb8HIF8mL4j2kRxTI5JGRRgvbdM1ALGE3crqtX6rjN9WzYe99p32RoSbZR9Dg2NdQUDFOIt7yqX4ixPDLtJZo0g11bo7AqZN4aZKOECQQDoS8QUbe4ILRgDVkHPjYAB1aevcdxRErWzflyoq2a+oq8N6vhyj8uARPgUMB5zI87wMb6/d7lpL8AK/GHMn8abAkEA5lUbjaU9zT9NKiXupEI9j0juRJBUWIQQcDIQCkI4/PC9QqC9EMU7u91CDB69nO9pmdHthg+mBukcUId2M1f9SQJAbmWjmDnuSAB2Sw+xUxxiW3zYpm6sT/NeWyGQk7BxsePK4ghrbrab9ifQ5nc/4WSBMnHRv1j8ytqgoBf1urOsRQJBALuFlsUfPs2XN8+UylFYzJ2XFsUjbEgUXP27BGwVtifYJ33TN5oruZIddORBMsZN9H+S9forS1Rc/PxjDMyIWmECQQCqEEXbHuQQLED233dOFPC1bwbgjZTtP8XWQK24cCRUADL2SXBY6IobtW914CB3ByXT8m0Dlw6QFz+lGeoVY2B/"; /** 商户私钥 自助生成 */
+    NSString *partner = @""; /** 合作商户ID  PID */
+    NSString *seller = @""; /** 支付宝账号ID  */
+    NSString *privateKey = @""; /** 商户私钥 自助生成 */
     /*============================================================================*/
     /*============================================================================*/
     /*============================================================================*/
